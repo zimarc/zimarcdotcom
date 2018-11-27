@@ -2,7 +2,7 @@ import { darken } from 'polished';
 
 const brand = {
   primary: 'orange',
-  secondary: 'blue',
+  secondary: 'transparent',
 };
 
 const colors = {

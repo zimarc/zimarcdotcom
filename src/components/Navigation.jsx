@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import { FaInstagram, FaBehance, FaDribbble } from 'react-icons/fa';
+import { FaInstagram, FaBehance, FaDribbble, FaGit, FaGithub } from 'react-icons/fa';
 import styled, { css } from 'react-emotion';
 import config from '../../config/website';
 import theme from '../../config/theme';
@@ -126,6 +126,10 @@ const Navigation = () => (
       </a>
       <a href="https://dribbble.com/zimarc" target="_blank" rel="noopener noreferrer">
         <FaDribbble />
+      </a>
+      
+      <a href="https://github.com/zimarc" target="_blank" rel="noopener noreferrer">
+        <FaGithub />
       </a>
     </SocialMedia>
   </Wrapper>

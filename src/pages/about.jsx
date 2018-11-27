@@ -8,7 +8,7 @@ const About = () => (
     <Helmet title={`About | ${config.siteTitle}`} />
     <Header>
       <>
-        <h1>About</h1>
+        
       </>
     </Header>
     <Container type="text">
