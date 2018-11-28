@@ -85,7 +85,7 @@ const ProjectListing = ({ projectEdges }) => (
               <Img fluid={project.node.frontmatter.cover.childImageSharp.fluid} />
             </ImageWrapper>
             <Link to={project.node.fields.slug}>
-              <Overlay style={{ backgroundColor: overlayColor }} />
+              <Overlay style={{ backgroundColor: overlayColor, opacity:0.7 }} />
               <h2>{project.node.frontmatter.title}</h2>
               <div>{project.node.frontmatter.category}</div>
             </Link>

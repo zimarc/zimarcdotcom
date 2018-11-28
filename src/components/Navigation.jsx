@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import { FaInstagram, FaBehance, FaDribbble, FaGit, FaGithub } from 'react-icons/fa';
+import { FaInstagram, FaTwitter, FaDribbble, FaGithub } from 'react-icons/fa';
 import styled, { css } from 'react-emotion';
 import config from '../../config/website';
 import theme from '../../config/theme';
@@ -121,8 +121,8 @@ const Navigation = () => (
       <a href="https://www.instagram.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
         <FaInstagram />
       </a>
-      <a href="https://www.behance.net/zimarc" target="_blank" rel="noopener noreferrer">
-        <FaBehance />
+      <a href="https://twitter.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
+        <FaTwitter />
       </a>
       <a href="https://dribbble.com/zimarc" target="_blank" rel="noopener noreferrer">
         <FaDribbble />
