@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'react-emotion';
 
 const Wrapper = styled.footer`
-  margin: 5rem 0;
+  margin: 0rem 0;
   padding: 1rem ${props => props.theme.spacer.horizontal};
   text-align: center;
   a {

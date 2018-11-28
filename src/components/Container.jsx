@@ -6,7 +6,7 @@ import styled, { css } from 'react-emotion';
 
 
 const Wrapper = styled.div`
-
+  
   margin: 0 auto;
   padding: 0 ${props => props.theme.spacer.horizontal};
 
@@ -33,8 +33,10 @@ const Wrapper = styled.div`
 `;
 
 const Container = ({ children, type, className }) => (
-  <Wrapper className={className} type={type}>
+  
+  <Wrapper className={className} type={type} >
     {children}
+
   </Wrapper>
 );
 

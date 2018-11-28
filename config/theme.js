@@ -27,10 +27,8 @@ const theme = {
   },
   container: {
     base: '10rem',
-    text: '55rem',
+    text: '80rem',
     position: 'absolute',
-
-    
   },
   spacer: {
     horizontal: '1rem',
