@@ -7,6 +7,7 @@ import { Container, SEO, Layout } from 'components';
 import config from '../../config/website';
 
 
+
 const WrapperBot = styled.section`
   text-align: center;
   position: relative;

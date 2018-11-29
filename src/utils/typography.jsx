@@ -6,7 +6,7 @@ const typography = new Typography({
   title: 'Zimarc',
   baseFontSize: config.baseFontSize,
   baseLineHeight: 1.5,
-  headerFontFamily: [config.headerFontFamily, 'dosis'],
+  headerFontFamily: [config.headerFontFamily, 'dosis','Lucida Sans Typewriter','sans-serif'],
   bodyFontFamily: [config.bodyFontFamily, 'dosis'],
   scaleRatio: 2.5,
   headerWeight: 700,

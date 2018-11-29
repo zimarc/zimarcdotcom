@@ -16,6 +16,8 @@ const Wrapper = styled.div`
     text-decoration: none;
     color: ${props => props.theme.brand.primary};
   };
+
+  
   
   ${props =>
     props.type === 'text' &&
@@ -28,6 +30,8 @@ const Wrapper = styled.div`
         --x-height-multiplier: 0.35;
         
       }
+
+     
       
     `};
 `;
