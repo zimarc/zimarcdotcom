@@ -10,7 +10,7 @@ const Wrapper = styled.div`
   margin: 0 auto;
   padding: 0 ${props => props.theme.spacer.horizontal};
 
-  max-width: ${props => props.theme.container[props.type]};
+  max-width: ${props => props.theme.container[props.type]};  
   
   a {
     text-decoration: none;

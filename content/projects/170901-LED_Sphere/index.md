@@ -9,5 +9,5 @@ tag: "LED, MediaWall"
 
 **Sphere  Media** is a design proposal for  7 foot diameter LED  screen based on triangular panel and hexagonal LED Pattern.
 
-<img src="https://images.ctfassets.net/mgd90li3yfeu/3mOBEBOc6kGCqy0a40QQU/d442609fa5b82fdab6d04f8bb60adf9a/LEDsphere-zimarc-03.svg">
+<img src="https://images.ctfassets.net/mgd90li3yfeu/3mOBEBOc6kGCqy0a40QQU/8746970a7f39525cfe0556aef854627c/LEDsphere-zimarc.svg">
 

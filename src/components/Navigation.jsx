@@ -91,29 +91,23 @@ const Navigation = () => (
   <Wrapper>
     <Nav>
     <Link
-        to="/"
+        to="/about"
         activeClassName={css`
           ${active};
         `}
       >
         Zimarc
       </Link>
-      <Link
-        to="/about"
+    <Link
+        to="/"
         activeClassName={css`
           ${active};
         `}
       >
-        About
+        Works
       </Link>
-      <Link
-        to="/contact"
-        activeClassName={css`
-          ${active};
-        `}
-      >
-        Contact
-      </Link>
+     
+    
       
     </Nav>
     
