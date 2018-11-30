@@ -6,10 +6,9 @@ category: "Theme"
 size: "l"
 tag: "good,nice"
 ---
-## Description
-
-![](./thumbnail/thumb-zimarc.png)
 
 
-<img src="https://images.ctfassets.net/mgd90li3yfeu/6ACnlshBo4WmQqaA6aQims/40967a2e046b1dbcd36c4772a01c19f9/thumb-zimarc.svg">
+&nbsp
+
+<img src="https://images.ctfassets.net/mgd90li3yfeu/46N3d5IwFGimiG0QMUwSgu/3a93c334f0bdc820d7bcb915ee73d90b/curvy-zimarc-chair.svg">
 
