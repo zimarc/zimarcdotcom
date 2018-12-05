@@ -17,6 +17,6 @@ module.exports = {
   backgroundColor: '#bada55',
   // Settings for typography.jsx
   headerFontFamily: 'Dosis',
-  bodyFontFamily: 'dosis ',
+  bodyFontFamily: 'Dosis ',
   baseFontSize: '14px',
 };
