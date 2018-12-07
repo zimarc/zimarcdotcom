@@ -2,9 +2,9 @@
 title: "ManiFold"
 cover: "./thumbnail/thumb-zimarc.png"
 date: "2015-08-03"
-category: "Theme"
-size: "l"
-tag: "good,nice"
+category: "Seating"
+size: "s"
+tag: "furniture,steel,welding"
 ---
 
 
@@ -21,3 +21,4 @@ tag: "good,nice"
 ![](./img/manifold-zimarc-03.jpg)
 
 ![](./img/manifold-zimarc-01.png)
+
