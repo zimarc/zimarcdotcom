@@ -7,7 +7,7 @@ size: "l"
 tag: "good,nice"
 ---
 
-![](./img/ZIMARC_Beautiful-Incompletion-10.jpg)
+*![](./img/ZIMARC_Beautiful-Incompletion-10.jpg)*
 
 ![](./img/ZIMARC_Beautiful-Incompletion-3.jpg)
 
@@ -22,11 +22,6 @@ tag: "good,nice"
 ![](./img/ZIMARC_Beautiful-Incompletion-8.jpg)
 
 ![](./img/ZIMARC_Beautiful-Incompletion-9.jpg)
-
-
-
-
-
 
 
 
