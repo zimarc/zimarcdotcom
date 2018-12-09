@@ -8,10 +8,24 @@ import { overlay } from '../../config/theme';
 
 const Wrapper = styled.div`
   background-color: lightblue;
+  background-color: #fff;
+  -webkit-animation: random 25s infinite;
+  animation: random 25s infinite;
+  @keyframes  random {
+    15% { background-color: #A8E6CE; } 
+    30% { background-color: #DCEDC2; } 
+    45% { background-color: #FFD3B5; } 
+    60% { background-color: #FFAAA6; }
+    70% { background-color:  #FF8C94; }
+    85% { background-color: white; }  
+  } 
+    
+
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   width: 100%;
 `;
+
 
 const Item = styled.div`
   position: relative;
