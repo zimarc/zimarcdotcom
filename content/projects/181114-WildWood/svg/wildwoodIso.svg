@@ -1,9 +1,9 @@
-<svg id="logo" class="logo1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1732 1080">
+<svg id="logo1" class="logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1732 1080">
   <defs>
- <script type="text/javascript">
+    <script type="text/javascript">
     var colors = ['#FDEDD0', '#BCF1ED', ' #FF634D', '#FFCC00','#FFFFFF'];
 		var random_color = colors[Math.floor(Math.random() * colors.length)];
-    document.getElementById("logo").style.backgroundColor = random_color;
+    document.getElementById("logo1").style.backgroundColor = random_color;
 		
     </script>
     
