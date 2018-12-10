@@ -16,7 +16,7 @@ const Wrapper = styled.div`
     30% { background-color: #DCEDC2; } 
     45% { background-color: #FFD3B5; } 
     60% { background-color: #FFAAA6; }
-    70% { background-color:  #FF8C94; }
+    70% { background-color: #FF8C94; }
     85% { background-color: white; }  
   } 
     
