@@ -7,17 +7,18 @@ import sample from 'lodash/sample';
 import { overlay } from '../../config/theme';
 
 const Wrapper = styled.div`
-  background-color: lightblue;
-  background-color: #fff;
-  -webkit-animation: random 25s infinite;
-  animation: random 25s infinite;
+  -webkit-animation: random 60s infinite;
+  animation: random 60s infinite;
   @keyframes  random {
-    15% { background-color: #A8E6CE; } 
-    30% { background-color: #DCEDC2; } 
-    45% { background-color: #FFD3B5; } 
-    60% { background-color: #FFAAA6; }
-    70% { background-color: #FF8C94; }
-    85% { background-color: white; }  
+    10% { background-color: white; }  
+    20% { background-color: #ACDBC9; } 
+    30% { background-color: #547980; } 
+    40% { background-color: #45ada8; }
+    50% { background-color: #9de0ad; }
+    60% { background-color: black; }  
+    70% { background-color: #2a363b; } 
+    80% { background-color: #ff847c; } 
+    90% { background-color: #99b898; } 
   } 
     
 
