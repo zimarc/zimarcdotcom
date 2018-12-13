@@ -10,11 +10,10 @@ const Wrapper = styled.div`
   -webkit-animation: random 60s infinite;
   animation: random 60s infinite;
   @keyframes  random {
-    10% { background-color: white; }  
+    5% { background-color: white; }  
     20% { background-color: #ACDBC9; } 
     30% { background-color: #547980; } 
     40% { background-color: #45ada8; }
-    50% { background-color: #9de0ad; }
     60% { background-color: black; }  
     70% { background-color: #2a363b; } 
     80% { background-color: #ff847c; } 
