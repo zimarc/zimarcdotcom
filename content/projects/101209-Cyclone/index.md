@@ -6,10 +6,13 @@ category: "Theme"
 size: "l"
 tag: "good,nice"
 ---
-## Description
-
-![](./thumbnail/thumb-zimarc.png)
 
 
-<img src="https://images.ctfassets.net/mgd90li3yfeu/6ACnlshBo4WmQqaA6aQims/40967a2e046b1dbcd36c4772a01c19f9/thumb-zimarc.svg">
+
+<img src="./img/cyclone-zimarc-exploratorium-01.jpg">
+<img src="./img/cyclone-zimarc-exploratorium-02.jpg">
+<img src="./img/cyclone-zimarc-exploratorium-03.jpg">
+<img src="./img/cyclone-zimarc-exploratorium-04.jpg">
+<img src="./img/cyclone-zimarc-exploratorium-05.jpg">
+<img src="./img/cyclone-zimarc-exploratorium-06.jpg">
 
