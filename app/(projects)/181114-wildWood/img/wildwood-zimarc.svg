@@ -1,0 +1,171 @@
+<svg id="logo" class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1731.3 1079.6">
+  <defs>
+  
+    <script type="text/javascript">
+    var colors = ['#FDEDD0', '#BCF1ED', ' #FF634D', '#FFCC00','#FFFFFF'];
+		var random_color = colors[Math.floor(Math.random() * colors.length)];
+    document.getElementById("logo").style.backgroundColor = random_color;
+		
+    </script>
+    
+    <style>
+  
+    .idea01 {
+  animation-name: show;
+  opacity: 0;
+  animation-delay: 3s;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+}
+
+@keyframes show {
+  to {
+    opacity: 1;
+  }
+}
+
+.section{
+  animation-name: show;
+  opacity: 0;
+  animation-delay: 6s;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+}
+
+@keyframes show {
+  to {
+    opacity: .7;
+  }
+}
+
+.comp{
+  animation-name: show;
+  opacity: 0;
+  animation-delay: 9s;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+}
+
+@keyframes show {
+  to {
+    opacity: 1;
+  }
+}
+
+
+.crv {
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.mez {
+  stroke-width: 12;
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900;
+  -webkit-animation: dash 2s linear forwards;
+  -moz-animation: dash 2s linear forwards;
+  -o-animation: dash 2s linear forwards;
+  animation: dash 2s linear forwards;
+}
+
+@-webkit-keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.tower {
+  stroke-width: 3;
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900;
+  -webkit-animation: dash 3s linear forwards;
+  -moz-animation: dash 3s linear forwards;
+  -o-animation: dash 3s linear forwards;
+  animation: dash 3s linear forwards;
+  animation-delay: 3s;
+}
+
+@-webkit-keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.bigBox {
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 3;
+  stroke-dasharray: 1500;
+  stroke-dashoffset: 1500;
+  -webkit-animation: dash 3s linear forwards;
+  -moz-animation: dash 3s linear forwards;
+  -o-animation: dash 3s linear forwards;
+  animation: dash 2s linear forwards;
+  animation-delay: 4s;
+}
+
+@-webkit-keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+    </style>
+    
+   
+   
+   
+  </defs>
+  
+
+  
+<g id="" class="crv">
+    <g>
+     <g class= "mez">
+        <polygon class="cls-2" points="646.4 405.9 948.5 450.8 877.2 456.8 576.9 421.9 646.4 405.9"/>
+      </g>
+    
+     
+      <g class= "tower">
+        <polygon class="cls-2" points="689.9 613.4 789.9 599.2 721.4 589.9 624.1 600.9 689.9 613.4"/>
+        <polygon class="cls-2" points="689.9 216.9 789.9 260 721.4 288.3 624.1 254.8 689.9 216.9"/>
+        <line class="cls-2" x1="689.9" y1="613.4" x2="689.9" y2="216.9"/>
+        <line class="cls-2" x1="789.9" y1="599.2" x2="789.9" y2="260"/>
+        <line class="cls-2" x1="721.4" y1="589.9" x2="721.4" y2="288.3"/>
+        <line class="cls-2" x1="624.1" y1="600.9" x2="624.1" y2="254.8"/>
+      </g>
+      
+  
+    </g>
+  </g>
+  
+  <g id="" class="idea01">
+    <image width="2213" height="1380" transform="translate(0 0) scale(0.78)" xlink:href="https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/9298b973516789.5c0c4874a1b2f.png"/>
+  </g>
+  
+   <g id="" class="section">
+    <image width="2213" height="1380" transform="translate(0 0) scale(0.78)" xlink:href="https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/27d8a073516789.5c0c4874a1267.png"/>
+  </g>
+        <g class= "bigBox">
+        <polygon class="cls-2" points="912.4 6 556.5 251.1 876.1 353.5 1170.1 285.8 912.4 6"/>
+        <polygon class="cls-2" points="912.4 664 556.5 592.4 876.1 562.5 1170.1 582.2 912.4 664"/>
+        <line class="cls-2" x1="912.4" y1="6" x2="912.4" y2="664"/>
+        <line class="cls-2" x1="556.5" y1="251.1" x2="556.5" y2="592.4"/>
+        <line class="cls-2" x1="876.1" y1="353.5" x2="876.1" y2="562.5"/>
+        <line class="cls-2" x1="1170.1" y1="285.8" x2="1170.1" y2="582.2"/>
+      </g>
+      
+ <g id="" class="comp">
+    <image width="2213" height="1380" transform="translate(0 0) scale(0.78)" xlink:href="https://cdn.dribbble.com/users/2859297/screenshots/5666866/wildwood_com_render.png"/>
+  </g>
+  
+</svg>
